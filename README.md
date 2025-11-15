@@ -2,9 +2,9 @@
 
 ###  DATE:04/10/2025 
 
-###  NAME:Shri Raama Krishanan J
-###  ROLL NO :212224220100
-###  DEPARTMENT:Information Technology
+###  NAME:Srimeganathan S
+###  ROLL NO :212224230273
+###  DEPARTMENT:AIDS
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
